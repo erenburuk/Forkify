@@ -1,5 +1,5 @@
-# forkify Project
+# 👨‍🍳 Forkify Project
 
-Recipe application with custom recipe uploads.
+A recipe application with many recipes in it. Users can search for recipes, bookmark favorite recipes, add new recipes, and adjust ingredients based on the number of servings.
 
-You can test the project on the Forkify website: [forkify-erenburuk.netlify.app](https://forkify-erenburuk.netlify.app/)
+🍽 You can test the project on the Forkify website: https://forkify-erenburuk.netlify.app/
